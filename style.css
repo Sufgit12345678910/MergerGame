@@ -1,0 +1,323 @@
+body {
+    background-color: mediumspringgreen;
+    font-family: Segoe UI, Verdana, Roboto, sans-serif;
+  }
+  
+  button {
+    font-family: Segoe UI, Verdana, Roboto, sans-serif;
+  }
+  
+  #money {
+    text-align: center;
+    font-size: 35px;
+  }
+  
+  .mergezone {
+    display: flex !important;
+    flex-flow: row wrap;
+    justify-content: left;
+    align-items: center;
+    max-width: 420px;
+    margin: 0 auto;
+    background-color: seagreen;
+  }
+  
+  .mergezone > div {
+    border-radius: 0%;
+  }
+  
+  .mergezone > div.block {
+    background-color: #223022;
+    width: 90px;
+    height: 90px;
+    margin: 7px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+  
+  .mergezone > div.block0 {
+    background-color: #223022;
+    width: 90px;
+    height: 90px;
+    margin: 7px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+  
+  .mergezone > div.block1 {
+    background-color: green;
+    width: 90px;
+    height: 90px;
+    margin: 7px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+  
+  .mergezone > div.block2 {
+    background-color: tomato;
+    width: 90px;
+    height: 90px;
+    margin: 7px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+  
+  .mergezone > div.block3 {
+    background-color: cyan;
+    width: 90px;
+    height: 90px;
+    margin: 7px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+  
+  .mergezone > div.block4 {
+    background-color: indigo;
+    width: 90px;
+    height: 90px;
+    margin: 7px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+  
+  .mergezone > div.block5 {
+    background-color: lightgreen;
+    width: 90px;
+    height: 90px;
+    margin: 7px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+  
+  .mergezone > div.block6 {
+    background-color: sandybrown;
+    width: 90px;
+    height: 90px;
+    margin: 7px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+  
+  .mergezone > div.block7 {
+    background-image: linear-gradient(to right, red, crimson);
+    width: 90px;
+    height: 90px;
+    margin: 7px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+  
+  .mergezone > div.block8 {
+    background-image: linear-gradient(to right, tomato, orange);
+    width: 90px;
+    height: 90px;
+    margin: 7px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+  
+  .mergezone > div.block9 {
+    background-image: linear-gradient(to right, indigo, cyan);
+    width: 90px;
+    height: 90px;
+    margin: 7px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+  
+  .mergezone > div.block10 {
+    background-image: linear-gradient(to right, hotpink, lime);
+    width: 90px;
+    height: 90px;
+    margin: 7px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+  
+  .mergezone > div.block11 {
+    background-image: linear-gradient(to right, red, yellow, green);
+    width: 90px;
+    height: 90px;
+    margin: 7px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+  
+  .mergezone > div.block12 {
+    background-image: linear-gradient(to right, cornflowerblue, aquamarine, darkseagreen);
+    width: 90px;
+    height: 90px;
+    margin: 7px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+  
+  .mergezone > div.block13 {
+    background-image: linear-gradient(to right, darkorange, deeppink, dodgerblue);
+    width: 90px;
+    height: 90px;
+    margin: 7px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+  
+  .mergezone > div.block14 {
+    background-image: linear-gradient(to right, black, blueviolet, white);
+    width: 90px;
+    height: 90px;
+    margin: 7px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+  
+  .mergezone > div.block15 {
+    background-image: linear-gradient(to right, burlywood, blueviolet, aquamarine);
+    width: 90px;
+    height: 90px;
+    margin: 7px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+  
+  .mergezone > div.block16 {
+    background-image: linear-gradient(to right, darkblue, darkgreen, darkkhaki);
+    width: 90px;
+    height: 90px;
+    margin: 7px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+  
+  .mergezone > div.block17 {
+    background-image: linear-gradient(to right, darkorange, darkmagenta, darkslateblue, firebrick);
+    width: 90px;
+    height: 90px;
+    margin: 7px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+  
+  .mergezone > div.block18 {
+    background-image: linear-gradient(to right, darkcyan, fuchsia, green, dodgerblue);
+    width: 90px;
+    height: 90px;
+    margin: 7px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+  
+  .mergezone > div.block19 {
+    background-image: linear-gradient(to right, #aa0000, white, #0000aa);
+    width: 90px;
+    height: 90px;
+    margin: 7px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+  
+  .mergezone > div.block20 {
+    background:
+       conic-gradient(#bb0000 0.25turn, #990000 0.25turn 0.5turn, #f00 0.5turn 0.75turn, #660000 0.75turn)
+       top left / 25% 25% repeat;
+    border: 1px solid;
+    width: 90px;
+    height: 90px;
+    margin: 7px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+  
+  .mergezone > div.block21 {
+    background:
+       conic-gradient(#bb0000 0.1turn, #990000 0.1turn 0.2turn, #f00 0.2turn 0.3turn, #660000 0.3turn 0.4turn, #00ff00 0.4turn 0.5turn, #0000ff 0.5turn 0.6turn, #00ffff 0.6turn 0.7turn, #880088 0.7turn 0.8turn, orange 0.8turn 0.9turn, blue 0.9turn 1turn, cyan)
+       top left / 25% 25% repeat;
+    border: 1px solid;
+    width: 90px;
+    height: 90px;
+    margin: 7px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+  
+  .mergezone > div.block22 {
+    background: linear-gradient(90deg, rgba(12,0,0,0.5) 50%, rgba(12,0,255,0.5) 50%),
+                linear-gradient(180deg, rgba(255,255,0,0.5) 50%, rgba(255,0,0,0.5) 50%);
+    border: 1px solid;
+    width: 90px;
+    height: 90px;
+    margin: 7px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+  
+  .mergezone > div.block23 {
+    background: linear-gradient(90deg, rgba(12,0,0,0.5) 50%, rgba(12,0,255,0.5) 50%),
+                linear-gradient(180deg, rgba(24,255,0,0.5) 50%, rgba(24,0,0,0.5) 50%);
+    border: 1px solid;
+    width: 90px;
+    height: 90px;
+    margin: 7px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+  
+  .mergezone > div.block24 {
+    background: linear-gradient(90deg, rgba(0,0,255,0.5) 50%, rgba(0,255,0,0.5) 50%),
+                linear-gradient(180deg, rgba(0,255,0,0.5) 50%, rgba(0,0,0,0.5) 50%);
+    border: 1px solid;
+    width: 90px;
+    height: 90px;
+    margin: 7px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+  
+  .mergezone > div.block25 {
+    background: radial-gradient(circle, rgba(0, 139, 139, 0.5), rgba(100, 149, 237, 0.5), rgba(0, 0, 255, 0.8)),
+                linear-gradient(to right, #f00, #00f);
+    border: 1px solid;
+    width: 90px;
+    height: 90px;
+    margin: 7px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+  
+  button,
+  input {
+    font-family: inherit;
+    font-size: 100%;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 4px;
+    padding: 0.5rem 1rem;
+    transition: 500ms;
+  }

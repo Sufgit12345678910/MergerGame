@@ -1,0 +1,53 @@
+<html>
+<head>
+  <link rel="stylesheet" href="style.css">
+  <title>Merger Game</title>
+</head>
+<body onload="load()">
+  <p id="money" style="background-color: #005533; color: white; height: 50px;">
+    
+  </p>
+  
+  <div class="mergezone">
+    <div class="block"></div>
+    <div class="block"></div>
+    <div class="block"></div>
+    <div class="block"></div>
+    <div class="block"></div>
+    <div class="block"></div>
+    <div class="block"></div>
+    <div class="block"></div>
+    <!--<br>-->
+    <div class="block"></div>
+    <div class="block"></div>
+    <div class="block"></div>
+    <div class="block"></div>
+    <div class="block"></div>
+    <div class="block"></div>
+    <div class="block"></div>
+    <div class="block"></div>
+    <div class="block"></div>
+    <div class="block"></div>
+    <div class="block"></div>
+    <div class="block"></div>
+  </div>
+  
+  <center>
+      <button id="merging" onclick="merge()">
+    Merge
+  </button>
+  <button id="upgs" onclick="betterBlock()">
+    1+ tier - 1/11 ($2,000)
+  </button>
+  <button id="cheaper" onclick="cheaperUpgrades()">
+    Cheaper Blocks Upg. - 1/10 ($3,500)
+  </button>
+  </center>
+  
+  <br>
+  
+  <script src="script.js"></script>
+  <center id="stats">Current Stats:</center>
+  
+</body>
+</html>
